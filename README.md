@@ -1,10 +1,8 @@
 # FirstSuspension
- Survival analysis of the first suspension of the school year
+
+Stephen L. Hoffman's 2014 qualifying paper for the Harvard Graduate School of Education
  
- Hoffman's qualifying paper for the Harvard Graduate School of Education
- 2014
- 
- Committee: John Willett (chair), Daniel Koretz, Richard Murnane
+Committee: John Willett (chair), Daniel Koretz, Richard Murnane
  
 Improving the Estimation of the Risk of School Suspension Using Continuous-Time Survival Analysis: 
 A Case Study in the Public Middle Schools in One Metropolitan Region
